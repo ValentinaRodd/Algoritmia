@@ -45,5 +45,5 @@ Este repositorio reúne los ejercicios del Taller 2 organizados por nivel:
 11. [Mayor/menor en vector](03-avanzado/ejercicio-11.md)
 12. [Suma de matriz 3x3](03-avanzado/ejercicio-12.md)
 13. [Primos en rango](03-avanzado/ejercicio-13.md)
-14. [Ordenamiento burbuja](03-avanzado/ejercicio-14.md)
-15. [Menú del inventario](03-avanzado/ejercicio-15.md)
+14. [Ordenamiento Burbuja](03-avanzado/ejercicio-14.md)
+15. [Menu del inventario](03-avanzado/ejercicio-15.md)
