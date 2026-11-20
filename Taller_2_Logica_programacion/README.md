@@ -10,6 +10,18 @@
 
 **Fecha de entrega:** 14 de noviembre de 2026
 
+---
+
+## 📌 ¿Qué encontrarás?
+
+Este repositorio reúne los ejercicios del Taller 2 organizados por nivel:
+
+| Nivel | Tema | Ejercicios |
+|-------|------|------------|
+| 🟢 Básico | Cálculos, decisiones y conversiones | 1 - 5 |
+| 🟡 Intermedio | Ciclos, acumuladores y secuencias | 6 - 10 |
+| 🔴 Avanzado | Vectores, matrices y menús | 11 - 15 |
+
 ## Tabla de contenido
 
 ### Nivel Básico
