@@ -52,3 +52,8 @@ Este repositorio reúne los ejercicios del Taller 3 organizados por nivel:
 13. [Buscar un valor en una matriz](03-avanzado/Buscar_EnMatriz.md)
 14. [Transponer una matriz](03-avanzado/Transponer_Matriz3x3.md)
 15. [Contar números primos en una matriz](03-avanzado/Primos_EnMatriz.md)
+
+## 🚀 Reflexión
+
+Al resolver estos 15 ejercicios aprendí que los arreglos permiten guardar varios valores del mismo tipo bajo un solo nombre y acceder a cada uno. Esto cambia la forma de programar: en lugar de declarar una variable por cada dato, recorro el arreglo con un ciclo y aplico la misma operación a todos sus elementos. Con los vectores practiqué la suma acumulada, la búsqueda del menor valor y el conteo de coincidencias, mientras que con las matrices entendí cómo los ciclos recorren filas y columnas.
+ Lo que más me costo entender fue al invertir un vector o transponer una matriz, donde un error de posición cambia por completo el resultado. Creo que los arreglos son fundamentales porque aparecen en casi todos los programas reales, desde listas de calificaciones hasta imágenes, que no son más que arreglos de píxeles. 
